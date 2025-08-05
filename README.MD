@@ -26,11 +26,10 @@
 To run the project locally:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/MdAthikhasan/smart-invoice-generator.git
    ```
-
-````
 
 2. Navigate to the project folder:
 
@@ -44,7 +43,7 @@ To run the project locally:
    npm install
    ```
 
-3. run development server:
+4. run development server:
 
    ```bash
    npm run dev
@@ -58,20 +57,19 @@ To run the project locally:
 
 ## 🧠 How It Works
 
-* Fill in **Your Business** and **Client Details**.
-* Add item(s) with quantity and rate to calculate totals.
-* Select currency and tax rate if needed.
-* Customize dates and notes.
-* Click **Download PDF** to export your invoice.
+- Fill in **Your Business** and **Client Details**.
+- Add item(s) with quantity and rate to calculate totals.
+- Select currency and tax rate if needed.
+- Customize dates and notes.
+- Click **Download PDF** to export your invoice.
 
 ## 📌 Future Improvements
 
-* Save invoices to local storage or cloud
-* Email invoices directly to clients
-* Authentication and invoice history
-* Support for multi-language and multi-currency
+- Save invoices to local storage or cloud
+- Email invoices directly to clients
+- Authentication and invoice history
+- Support for multi-language and multi-currency
 
+```
 
-
-
-````
+```
